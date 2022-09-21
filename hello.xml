@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<product>
-	<name>Laptop</name>
-	<price>60000</price>
-</product>
-
-=======
 <employee>
 	<name>Sai kumar</name>
 	<id>2158636</id>
-</employee>	
->>>>>>> br21
+</employee>
+
+
